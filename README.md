@@ -1,1 +1,3 @@
-It can simply get Wifi and 3G network flow on ios device.
+GetNetworkFlow
+===============
+It is a demo for get Wi-Fi and cell network flow on iOS device.
